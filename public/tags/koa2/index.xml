@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koa2 on listenlive.cn</title>
+    <link>https://listenlive.cn/tags/koa2/</link>
+    <description>Recent content in Koa2 on listenlive.cn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 11 Dec 2020 17:29:57 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/koa2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Koa框架实现导出Excel文件</title>
+      <link>https://listenlive.cn/note/2020/12/11/koa_import/</link>
+      <pubDate>Fri, 11 Dec 2020 17:29:57 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/note/2020/12/11/koa_import/</guid>
+      <description>安装引入excel-export包 cnpm install excel-export --save const nodeExcel = require(&amp;#39;excel-export&amp;#39;); 实现导出方法 /** * 数据导出--导出方法 * @param resultData [{},{},] //从数据库中获取的数据格式 */ static async exportData(resultData,ctx){ let conf ={}; conf.name =</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="49.233.1.92" id="e23c4b00-ffaf-4b1b-a419-234337a637f2" port="22" customName="FTP_listenlive" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="FTP_listenlive" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

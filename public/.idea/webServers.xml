@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3afb105-92ed-4ee6-b6e0-ba016b8aa351" name="FTP_listenlive" url="http://49.233.1.92">
+        <fileTransfer rootFolder="/www/wwwroot/listenlive.cn" accessType="SFTP" host="49.233.1.92" port="22" sshConfigId="e23c4b00-ffaf-4b1b-a419-234337a637f2" sshConfig="FTP_listenlive">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

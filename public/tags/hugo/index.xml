@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on listenlive.cn</title>
+    <link>https://listenlive.cn/tags/hugo/</link>
+    <description>Recent content in Hugo on listenlive.cn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 10 Jul 2020 14:52:58 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo基本命令</title>
+      <link>https://listenlive.cn/note/2020/07/10/hugocommand/</link>
+      <pubDate>Fri, 10 Jul 2020 14:52:58 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/note/2020/07/10/hugocommand/</guid>
+      <description>Hugo基本命令 hugo server --noHTTPCache #启动 hugo server --disableFastRender #FastRender启动 hugo new site &amp;#34;listenlive.cn&amp;#34; #创建站点 hugo new post/note/xx.md #创建文章 hugo #编译所有文件并输出到public目录 Hug</description>
+    </item>
+    
+  </channel>
+</rss>
