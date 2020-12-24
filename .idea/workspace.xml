@@ -131,7 +131,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -229,6 +229,10 @@
       <workItem from="1608262703092" duration="3005000" />
       <workItem from="1608521715469" duration="4184000" />
       <workItem from="1608539321007" duration="111000" />
+      <workItem from="1608609850207" duration="95000" />
+      <workItem from="1608631185615" duration="1270000" />
+      <workItem from="1608692362716" duration="68000" />
+      <workItem from="1608716390958" duration="51000" />
     </task>
     <servers />
   </component>
