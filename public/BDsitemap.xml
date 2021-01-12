@@ -151,4 +151,10 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <url>
     <loc>https://listenlive.cn/leaf/2020/12/15/wechat01</loc>
 </url>
+<url>
+    <loc>https://listenlive.cn/leaf/2021/01/git_commit</loc>
+</url>
+<url>
+    <loc>https://listenlive.cn/note/202101/install_docker</loc>
+</url>
 </urlset>
