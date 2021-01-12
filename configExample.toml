@@ -27,7 +27,7 @@ DefaultContentLanguage = "zh"
   YearFormat = "2006年"
   MonthFormat = "01-02"
   #百度统计
-  BaiduStatsId = "2444a*********"
+  BaiduStatsId = "2444*********"
   #腾讯移动分析
   QQStatsId = "5007*****"
   #访客地图
