@@ -464,5 +464,5 @@ _此时点击切换注册方式则会清空表单内容_
 ___
 > 喜欢这篇文章的话 打赏一下吧！ 
 
-| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/0831de845.png) |
 | --------   | -----:  |
