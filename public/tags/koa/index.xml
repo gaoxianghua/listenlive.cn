@@ -22,7 +22,7 @@
       <pubDate>Mon, 10 Aug 2020 16:48:12 +0800</pubDate>
       
       <guid>https://listenlive.cn/note/2020/08/10/koa06/</guid>
-      <description>全局安装koa脚手架生成工具 cnpm install koa-generator -g 创建项目 koa koa_demo 安装依赖 cd koa_demo cnpm install 启动项目 npm start</description>
+      <description>全局安装koa脚手架生成工具 cnpm install koa-generator -g 创建项目 koa koa_demo 安装依赖 cd koa_demo cnpm install 启动项目 npm start 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>

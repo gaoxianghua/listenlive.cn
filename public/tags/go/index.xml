@@ -49,7 +49,7 @@
       <pubDate>Mon, 30 Nov 2020 14:52:24 +0800</pubDate>
       
       <guid>https://listenlive.cn/technology/2020/11/30/tech01/</guid>
-      <description>go反转字符串函数 package main import &amp;#34;fmt&amp;#34; func reverse(str string) string { var result string strLen := len(str) for(i := 0; i &amp;lt; strLen; i++){ result = result + fmt.Sprintf(&amp;#34;%c&amp;#34;, str[strLen-i-1]) } return result } //调用 result := reverse(&amp;#34;hello world&amp;#34;) fmt.Println(result) //结果 dlrow olleh</description>
+      <description>go反转字符串函数 package main import &amp;#34;fmt&amp;#34; func reverse(str string) string { var result string strLen := len(str) for(i := 0; i &amp;lt; strLen; i++){ result = result + fmt.Sprintf(&amp;#34;%c&amp;#34;, str[strLen-i-1]) } return result } //调用 result := reverse(&amp;#34;hello world&amp;#34;) fmt.Println(result) //结果 dlrow olleh 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>

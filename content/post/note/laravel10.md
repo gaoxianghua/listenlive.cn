@@ -256,3 +256,8 @@ class AuthController extends Controller
 ### 使用令牌
 ***在postman 工具中可以使用以下方式操作***   
 ![](/images/note/202009221533.png)
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |

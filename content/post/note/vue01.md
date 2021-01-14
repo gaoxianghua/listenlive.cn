@@ -251,4 +251,8 @@ npm install lodash
 </script>
 ```
 _使用_***[_.debounce()](https://www.lodashjs.com/docs/lodash.debounce)***_方法，设置3秒后才请求后台数据，减轻服务器压力_   
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
 
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |

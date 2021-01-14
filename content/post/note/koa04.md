@@ -92,6 +92,10 @@ app.use(static('./static'));
 ```
 <link rel="stylesheet" href="css/basic.css"/>   //即可成功引入static/css/basic.css
 ```
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
 
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 
 

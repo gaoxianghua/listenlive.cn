@@ -46,3 +46,8 @@ module.exports = router
 ## 目录结构
 ![目录结构](/images/note/202008131416.png)
 
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |

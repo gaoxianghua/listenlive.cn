@@ -13,7 +13,7 @@
       <pubDate>Tue, 05 Jan 2021 13:26:51 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2021/01/git_commit/</guid>
-      <description>剪切themes/.git文件夹到其他目录 从暂存区删除该文件夹 git rm --cache ./themes/next 再重新添加并提交即可 git add . git commit -m &amp;#39;&amp;#39; git push</description>
+      <description>剪切themes/.git文件夹到其他目录 从暂存区删除该文件夹 git rm --cache ./themes/next 再重新添加并提交即可 git add . git commit -m &amp;#39;&amp;#39; git push 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 26 Oct 2020 16:07:49 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2020/10/26/macos01/</guid>
-      <description>打开命令行终端，键入命令 sudo spctl --master-disable 在&amp;quot;安全与隐私&amp;quot;查看开启效果</description>
+      <description>打开命令行终端，键入命令 sudo spctl --master-disable 在&amp;quot;安全与隐私&amp;quot;查看开启效果 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Fri, 21 Aug 2020 10:37:36 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2020/08/21/mysql01/</guid>
-      <description>表操作 修改表的存储引擎 ALTER TABLE stu engine = &amp;lsquo;InnoDB&amp;rsquo;; 清空表数据 TRUNCATE TABLE tablename; 查询 去除重复数据查询 SELECT DISTINCT class_id FROM stu;</description>
+      <description>表操作 修改表的存储引擎 ALTER TABLE stu engine = &amp;lsquo;InnoDB&amp;rsquo;; 清空表数据 TRUNCATE TABLE tablename; 查询 去除重复数据查询 SELECT DISTINCT class_id FROM stu; 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Thu, 06 Aug 2020 15:40:02 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2020/08/06/url/</guid>
-      <description>BootCDN BootCDN 稳定、快速、免费的前端开源项目 CDN 加速服务 AdminLTE AdminLTE 开源后台管理模板 Animate.css Animate.css CSS动画效果 Packagist Packagist The PHP Package Repository</description>
+      <description>BootCDN BootCDN 稳定、快速、免费的前端开源项目 CDN 加速服务 AdminLTE AdminLTE 开源后台管理模板 Animate.css Animate.css CSS动画效果 Packagist Packagist The PHP Package Repository 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 25 Jul 2020 22:58:35 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2020/07/25/npmcommand/</guid>
-      <description>npm install -g npm //npm 版本更新命令（windows）</description>
+      <description>npm install -g npm //npm 版本更新命令（windows） 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@
       <pubDate>Thu, 23 Jul 2020 14:36:43 +0800</pubDate>
       
       <guid>https://listenlive.cn/leaf/2020/07/23/command1436/</guid>
-      <description>php artisan route:clear php artisan config:cache php artisan cache:clear php artisan view:clear</description>
+      <description>php artisan route:clear php artisan config:cache php artisan cache:clear php artisan view:clear 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
   </channel>

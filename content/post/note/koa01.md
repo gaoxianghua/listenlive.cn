@@ -172,4 +172,9 @@ async function test(){
 
 test();
 ```
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 

@@ -125,7 +125,11 @@ php artisan tinker      #启动tinker
 此时admins表会新增3条数据
 ![](/images/202007211106.png)   
 
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
 
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 
 
 

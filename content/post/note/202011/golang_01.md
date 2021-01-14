@@ -48,5 +48,10 @@ tags:
 ### strings.Join(s1 []string, sep string) : 用sep把s1中的所有元素连接起来  
 ### strconv.Itoa(i int) : 把一个整数i转成字符串   
 ### strconv.Atoi(str string)(int,error) : 把一个字符串转成整型  
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 
 

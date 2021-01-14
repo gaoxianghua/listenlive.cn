@@ -16,3 +16,8 @@ tags:
 
 不过弄懂了五点共圆的数学原理我们能在“high level"的目标上迈出第一步，这也是爷爷想看到的，提高自己的知识水平，做一个能担负起天下兴亡的青年。  
 ![](/images/knowledge01.jpg) 
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |

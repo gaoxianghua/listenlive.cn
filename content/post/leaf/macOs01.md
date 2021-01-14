@@ -16,4 +16,9 @@ sudo spctl --master-disable
 ```
 ## 在"安全与隐私"查看开启效果
 ![](/images/leaf/202010/202010261615.png)   
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 

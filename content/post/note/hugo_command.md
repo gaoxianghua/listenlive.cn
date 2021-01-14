@@ -17,3 +17,8 @@ hugo new post/note/xx.md					#创建文章
 hugo 										#编译所有文件并输出到public目录
 ```
 ## [Hugo下载](https://github.com/gohugoio/hugo/releases)
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |

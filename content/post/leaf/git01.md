@@ -49,5 +49,10 @@ a.php                           忽略提交此文件
 vendor                          忽略提交此文件夹   
 vendor/\*.txt                   忽略提交此文件目录下的TXT文件   
 !a.php                          不忽略此文件    
+___
+> 喜欢这篇文章的话 打赏一下吧！ 
+
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/7f127f545.jpg) |
+| --------   | -----:  |
 
 
