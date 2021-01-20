@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c785af19-598d-40dd-b2ff-6faaddeb08f9" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/archetypes/default.md" afterDir="false" />
@@ -106,7 +107,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="JsFlowSettings">

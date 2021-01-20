@@ -1,16 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: false
+draft: true
 toc: true
-url: "/note/2020/08/10/article"
+url: "/note/20210120/article.html"
 categories: 
 - 
 tags: 
 - 
 ---
-
-
 
 
 
