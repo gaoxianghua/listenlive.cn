@@ -2,70 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c785af19-598d-40dd-b2ff-6faaddeb08f9" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/content/post/share/202101/zhanzhangURL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/seo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/seo/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/seo/p/1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/202012/wechat01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/202012/wechat01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/202101/gitcommit.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/202101/gitcommit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/command1436.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/command1436.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/git01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/git01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/macOs01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/macOs01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/mysql01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/mysql01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/npm_command.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/npm_command.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/php_oci.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/php_oci.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/leaf/url.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/url.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/202011/golang_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/202011/golang_01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/202012/koa_import.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/202012/koa_import.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/202101/docker01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/202101/docker01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/golang01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/golang01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/hugo_command.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/hugo_command.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa02.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa03.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa04.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa05.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa06.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa06.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/koa07.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/koa07.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel02.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel03.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel04.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel05.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel06.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel06.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel07.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel07.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel08.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel08.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel09.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel09.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/laravel10.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/laravel10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/mongodb01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/mongodb01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/sequelize01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/sequelize01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/vue01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/vue01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/vue02.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/vue02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/vue03.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/vue03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/vue04.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/vue04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/note/vue05.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/vue05.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/share/knowledge01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/share/knowledge01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/technology/202011/tech_01.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/technology/202011/tech_01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/technology/202011/tech_02.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/technology/202011/tech_02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/technology/202011/tech_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/technology/202011/tech_03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/technology/202011/tech_04.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/technology/202011/tech_04.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/BDsitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/BDsitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/分享/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/分享/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/分享/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/分享/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/技术/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/技术/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/技术/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/技术/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/杂记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/杂记/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/笔记/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/笔记/p/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/笔记/p/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/home/welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/home/welcome/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/07/23/command1436/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/07/23/command1436/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/07/25/npmcommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/07/25/npmcommand/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/08/06/url/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/08/06/url/index.html" afterDir="false" />
@@ -75,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/10/26/php_oci8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/10/26/php_oci8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" afterDir="false" />
@@ -104,52 +44,8 @@
       <change beforePath="$PROJECT_DIR$/public/note/2020/11/30/golang02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/11/30/golang02/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/12/11/koa_import/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/12/11/koa_import/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/202101/install_docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/202101/install_docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/p/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/p/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/p/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/p/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/p/3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/share/2020/07/13/knowledge01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/share/2020/07/13/knowledge01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/api/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/centos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/centos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/command/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/command/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/git/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/koa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/koa2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/laravel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/laravel/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/macos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/macos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/mongodb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mongodb/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mysql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/node.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/node.js/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/nosql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/nosql/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/npm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/npm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/php/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/phpstorm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/phpstorm/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/sequelize/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sequelize/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vue/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/前端/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/前端框架/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端框架/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/工具/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/工具/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/开源/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/开源/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/微信开发/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/微信开发/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/提高知识水平/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/提高知识水平/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/数据库/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/数据库/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/模板消息/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/模板消息/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/水仙花数/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/水仙花数/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/膜法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/膜法/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/阶乘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/阶乘/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" afterDir="false" />
@@ -284,7 +180,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="D:/laravel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -411,7 +307,7 @@
       <workItem from="1610680888143" duration="8422000" />
       <workItem from="1610935997616" duration="2498000" />
       <workItem from="1611022555681" duration="4201000" />
-      <workItem from="1611108216906" duration="1769000" />
+      <workItem from="1611108216906" duration="4136000" />
     </task>
     <servers />
   </component>
@@ -427,12 +323,12 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="340" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1610936796267" />
-    <state x="505" y="177" key="FileChooserDialogImpl" timestamp="1611108492034">
+    <state x="505" y="177" key="FileChooserDialogImpl" timestamp="1611128786700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1196" y="321" key="FileChooserDialogImpl/-1366.105.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1604303200010" />
     <state x="505" y="177" key="FileChooserDialogImpl/0.0.1920.1040/-1366.152.1366.728@0.0.1920.1040" timestamp="1609225204599" />
-    <state x="505" y="177" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611108492034" />
+    <state x="505" y="177" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611128786700" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1610694402797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
