@@ -3,53 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c785af19-598d-40dd-b2ff-6faaddeb08f9" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/home/welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/home/welcome/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/07/23/command1436/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/07/23/command1436/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/07/25/npmcommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/07/25/npmcommand/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/08/06/url/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/08/06/url/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/08/07/gitcommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/08/07/gitcommand/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/08/21/mysql01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/08/21/mysql01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/10/26/macos01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/10/26/macos01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/10/26/php_oci8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/10/26/php_oci8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/21/laravel02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/21/laravel02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/22/laravel03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/22/laravel03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/23/laravel04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/23/laravel04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/23/vue02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/23/vue02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/26/vue03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/26/vue03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/27/vue04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/27/vue04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/30/mongodb01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/30/mongodb01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/30/vue05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/30/vue05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/07/31/laravel06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/31/laravel06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/03/laravel07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/03/laravel07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/04/laravel08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/04/laravel08/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/04/laravel09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/04/laravel09/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/09/koa01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/09/koa01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/09/koa02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/09/koa02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/10/koa03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/10/koa03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/10/koa04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/10/koa04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/10/koa05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/10/koa05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/10/koa06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/10/koa06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/13/koa07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/13/koa07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/20/sequelize01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/20/sequelize01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/08/24/laravel05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/08/24/laravel05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/09/22/laravel_dingo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/09/22/laravel_dingo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/11/24/golang01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/11/24/golang01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/11/30/golang02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/11/30/golang02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/2020/12/11/koa_import/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/12/11/koa_import/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/note/202101/install_docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/202101/install_docker/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/share/2020/07/13/knowledge01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/share/2020/07/13/knowledge01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech04/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/archetypes/default.md" afterDir="false" />
@@ -307,7 +260,7 @@
       <workItem from="1610680888143" duration="8422000" />
       <workItem from="1610935997616" duration="2498000" />
       <workItem from="1611022555681" duration="4201000" />
-      <workItem from="1611108216906" duration="4136000" />
+      <workItem from="1611108216906" duration="5036000" />
     </task>
     <servers />
   </component>
