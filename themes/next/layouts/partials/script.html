@@ -7,7 +7,18 @@
     s.parentNode.insertBefore(hm, s);
     })();
 </script>{{ end}}
-{{ if .Site.Params.QQStatsId}}<script type="text/javascript" src="https://tajs.qq.com/stats?sId={{.Site.Params.QQStatsId}}" charset="UTF-8"></script> {{end}}
+{{ if .Site.Params.QQStatsId}}<script>
+    var _mtac = {};
+    (function() {
+        var mta = document.createElement("script");
+        mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.4";
+        mta.setAttribute("name", "MTAH5");
+        mta.setAttribute("sid", "{{.Site.Params.QQStatsId}}");
+
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mta, s);
+    })();
+</script> {{end}}
 <script type="text/javascript">
   if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;

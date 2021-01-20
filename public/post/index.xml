@@ -6,7 +6,25 @@
     <description>Recent content in Posts on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 06 Jan 2021 14:42:00 +0800</lastBuildDate><atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jan 2021 17:39:31 +0800</lastBuildDate><atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Linux定时任务-Crontab 完成MySQL数据库的备份和表操作</title>
+      <link>https://listenlive.cn/leaf/202101/crontab_linux.html</link>
+      <pubDate>Tue, 19 Jan 2021 17:39:31 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202101/crontab_linux.html</guid>
+      <description>crontab基本命令 crontab -l //查看定时任务 crontab -e //编辑定时任务 crontab -r //删除定时任务 crontab常用写法 每分钟执行 */1 * * * * command 每小时0分执行</description>
+    </item>
+    
+    <item>
+      <title>SEO搜索引擎优化-常用的站长平台总结</title>
+      <link>https://listenlive.cn/share/202101/zhanzhangurl/</link>
+      <pubDate>Fri, 15 Jan 2021 13:24:58 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/share/202101/zhanzhangurl/</guid>
+      <description>百度: https://ziyuan.baidu.com 谷歌: https://analytics.google.com 腾讯: https://mta.qq.com 搜狗: http://zhanzhang.sogou.com 360: http://zhanzhang.so.com 必应: https://www.bing.com/webmasters/homepage 头条: https://zhanzhang.toutiao.com 神马: https://zhanzhang.sm.cn 喜欢这篇文章的话 打赏一下吧！</description>
+    </item>
+    
     <item>
       <title>Linux-CentOS上Docker的安装与卸载</title>
       <link>https://listenlive.cn/note/202101/install_docker/</link>

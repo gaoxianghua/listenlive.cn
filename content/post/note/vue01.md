@@ -254,5 +254,5 @@ _使用_***[_.debounce()](https://www.lodashjs.com/docs/lodash.debounce)***_方�
 ___
 > 喜欢这篇文章的话 打赏一下吧！ 
 
-| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay <](/images/pay/0831de845.png) |
+| ![Wechat](/images/pay/eb05acdaec967.png)  | ![Alipay](/images/pay/0831de845.png) |
 | --------   | -----:  |

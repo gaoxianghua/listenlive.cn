@@ -6,7 +6,16 @@
     <description>Recent content in 技术 on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 30 Nov 2020 17:06:22 +0800</lastBuildDate><atom:link href="https://listenlive.cn/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jan 2021 17:39:31 +0800</lastBuildDate><atom:link href="https://listenlive.cn/categories/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用Linux定时任务-Crontab 完成MySQL数据库的备份和表操作</title>
+      <link>https://listenlive.cn/leaf/202101/crontab_linux.html</link>
+      <pubDate>Tue, 19 Jan 2021 17:39:31 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202101/crontab_linux.html</guid>
+      <description>crontab基本命令 crontab -l //查看定时任务 crontab -e //编辑定时任务 crontab -r //删除定时任务 crontab常用写法 每分钟执行 */1 * * * * command 每小时0分执行</description>
+    </item>
+    
     <item>
       <title>go-求阶乘之和</title>
       <link>https://listenlive.cn/technology/2020/11/30/tech04/</link>

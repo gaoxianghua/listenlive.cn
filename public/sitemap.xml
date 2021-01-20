@@ -1,6 +1,32 @@
 <search>
     
      <entry>
+        <title>使用Linux定时任务-Crontab 完成MySQL数据库的备份和表操作</title>
+        <url>https://listenlive.cn/leaf/202101/crontab_linux.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>定时任务</tag><tag>crontab</tag>
+        </tags>
+        <content type="html"> crontab基本命令 crontab -l //查看定时任务 crontab -e //编辑定时任务 crontab -r //删除定时任务 crontab常用写法 每分钟执行 */1 * * * * command 每小时0分执行 0 * * * * command 每天0点执行 0 0 * * * command 每周日0点执行 0 0 * * 0 command 每月1号执行 0 0 1 * * command 每年1月1日执行 0 0 1 1 * command 使用crontab定时任务备份数据库 首先编写shell脚本 back_mysql.sh t = `date &amp;#39;&#43;%Y-%m-%d %H:%M:%S&amp;#39;` //使用时间做文件名 mysqldump -h127.0.0.1 -uusername -ppwd dbname &amp;gt; /var/back_mysql/dbname&amp;#34;$t&amp;#34;.sql 将shell脚本加入到定时任务 00 6 * * * /opt/back_mysql.sh //每天六点备份数据库 使用定时任务定期更新数据库表字段 //每年1月1日更新年龄字段，让 age &#43; 1 0 0 1 1 * mysql -uusername -ppwd -e &amp;#34;use dbname;UPDATE tablename SET age = age &#43; 1;quit;&amp;#34;   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
+        <title>SEO搜索引擎优化-常用的站长平台总结</title>
+        <url>https://listenlive.cn/share/202101/zhanzhangurl/</url>
+        <categories>
+          <category>分享</category>
+        </categories>
+        <tags>
+          <tag>SEO</tag>
+        </tags>
+        <content type="html"> 百度: https://ziyuan.baidu.com 谷歌: https://analytics.google.com 腾讯: https://mta.qq.com 搜狗: http://zhanzhang.sogou.com 360: http://zhanzhang.so.com 必应: https://www.bing.com/webmasters/homepage 头条: https://zhanzhang.toutiao.com 神马: https://zhanzhang.sm.cn   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
         <title>Linux-CentOS上Docker的安装与卸载</title>
         <url>https://listenlive.cn/note/202101/install_docker/</url>
         <categories>
