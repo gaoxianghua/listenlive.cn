@@ -1,6 +1,32 @@
 <search>
     
      <entry>
+        <title>Linux-使用防火墙firewalld开放端口</title>
+        <url>https://listenlive.cn/leaf/20210122/linux-firewalld.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>firewalld</tag><tag>防火墙</tag>
+        </tags>
+        <content type="html"> 查看当前开了哪些端口其实一个服务对应一个端口，每个服务对应/usr/lib/firewalld/services下面一个xml文件 firewall-cmd --list-services 通过firewall-cmd --get-services命令查看可以打开的服务有哪些 新建并编辑vpn-port.xml文件 开放18001端口 &amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;utf-8&amp;#34;?&amp;gt; &amp;lt;service&amp;gt; &amp;lt;short&amp;gt;VPN Port&amp;lt;/short&amp;gt; &amp;lt;description&amp;gt;VPN Port 18001&amp;lt;/description&amp;gt; &amp;lt;port protocol=&amp;#34;tcp&amp;#34; port=&amp;#34;18001&amp;#34;/&amp;gt; &amp;lt;/service&amp;gt; 可以通过下面的命令添加一个服务到firewalld firewall-cmd --add-service=vpn-port //vpn-port换成想要开放的service,仅当前有效 firewall-cmd --permanent --add-service=vpn-port //加上--permanent,表示系统重启后也有效 重启防火墙即可生效 systemctl restart firewalld.service   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
+        <title>使用阿里云/腾讯云国外服务器&#43;Shadowsocks实现科学上网</title>
+        <url>https://listenlive.cn/leaf/20210122/ssr.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>Shadowsocks</tag><tag>VPN</tag><tag>科学上网</tag>
+        </tags>
+        <content type="html"> 购买阿里云/腾讯云国外服务器 根据自己情况可以在阿里云或腾讯云购买合适的云服务器，可选择包年、包月或按流量付费 设置安全组 开放18001端口 手动添加 开放18001端口 配置服务器文件 使用WinSCP等FTP工具登录刚创建的实例,进入/opt目录，创建如下几个文件 启动文件 ali_start.sh yum install python-setuptools easy_install pip pip install shadowsocks nohup ssserver -c shadowsocks.json -d start &amp;amp; Shadowsocks配置文件 shadowsocks.json { &amp;#34;server&amp;#34;:&amp;#34;0.0.0.0&amp;#34;, &amp;#34;local_address&amp;#34;: &amp;#34;127.0.0.1&amp;#34;, &amp;#34;local_port&amp;#34;:1080, &amp;#34;port_password&amp;#34;:{ &amp;#34;18001&amp;#34;:&amp;#34;your-password&amp;#34; //ssr连接密码 }, &amp;#34;timeout&amp;#34;:300, &amp;#34;method&amp;#34;:&amp;#34;aes-256-cfb&amp;#34;, &amp;#34;fast_open&amp;#34;: false } 停止文件 stop.sh ssserver -c shadowsocks.json -d stop 使用sh命令运行ali_start.sh启动成功即可 sh /opt/ali_start.sh 配置Shadowsocks并连接 在Github等搜索下载shadowsocks 进行如下配置，完成即可！   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
         <title>使用Linux定时任务-Crontab 完成MySQL数据库的备份和表操作</title>
         <url>https://listenlive.cn/leaf/202101/crontab_linux.html</url>
         <categories>
