@@ -6,7 +6,20 @@
     <description>Recent content in PHP on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 15 Dec 2020 11:19:55 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 16:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://listenlive.cn/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP&amp;kuaidi.com实现快递查询</title>
+      <link>https://listenlive.cn/leaf/202101/kuaidiapi.html</link>
+      <pubDate>Tue, 26 Jan 2021 16:14:21 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202101/kuaidiapi.html</guid>
+      <description>申请快递查询API授权key kuaidi.com SDK文件KDApi.php /** * 物流信息查询接口SDK */ class KDAPI{ private $_APPKEY = &amp;#39;twde5d8ef***********&amp;#39;; //改为您自己的key private $_APIURL = &amp;#34;https://highapi.kuaidi.com/openapi-querycountordernumber.html?&amp;#34;; private $_show = 0; private $_muti</description>
+    </item>
+    
     <item>
       <title>PHP-微信公众号实现发送模板消息</title>
       <link>https://listenlive.cn/leaf/2020/12/15/wechat01/</link>

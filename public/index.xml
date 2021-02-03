@@ -6,7 +6,20 @@
     <description>Recent content on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Jan 2021 14:58:14 +0800</lastBuildDate><atom:link href="https://listenlive.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 16:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://listenlive.cn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP&amp;kuaidi.com实现快递查询</title>
+      <link>https://listenlive.cn/leaf/202101/kuaidiapi.html</link>
+      <pubDate>Tue, 26 Jan 2021 16:14:21 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202101/kuaidiapi.html</guid>
+      <description>申请快递查询API授权key kuaidi.com SDK文件KDApi.php /** * 物流信息查询接口SDK */ class KDAPI{ private $_APPKEY = &amp;#39;twde5d8ef***********&amp;#39;; //改为您自己的key private $_APIURL = &amp;#34;https://highapi.kuaidi.com/openapi-querycountordernumber.html?&amp;#34;; private $_show = 0; private $_muti</description>
+    </item>
+    
     <item>
       <title>Linux-使用防火墙firewalld开放端口</title>
       <link>https://listenlive.cn/leaf/20210122/linux-firewalld.html</link>
@@ -14,15 +27,6 @@
       
       <guid>https://listenlive.cn/leaf/20210122/linux-firewalld.html</guid>
       <description>查看当前开了哪些端口其实一个服务对应一个端口，每个服务对应/usr/lib/firewalld/services下面一个xml文件 firewall-cmd --list-services 通过f</description>
-    </item>
-    
-    <item>
-      <title>使用阿里云/腾讯云国外服务器&#43;Shadowsocks实现科学上网</title>
-      <link>https://listenlive.cn/leaf/20210122/ssr.html</link>
-      <pubDate>Fri, 22 Jan 2021 14:06:41 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/leaf/20210122/ssr.html</guid>
-      <description>购买阿里云/腾讯云国外服务器 根据自己情况可以在阿里云或腾讯云购买合适的云服务器，可选择包年、包月或按流量付费 设置安全组 开放18001端口 手动</description>
     </item>
     
     <item>

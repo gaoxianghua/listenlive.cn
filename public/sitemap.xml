@@ -1,6 +1,19 @@
 <search>
     
      <entry>
+        <title>PHP&amp;kuaidi.com实现快递查询</title>
+        <url>https://listenlive.cn/leaf/202101/kuaidiapi.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>快递API</tag><tag>PHP</tag><tag>快递接口</tag>
+        </tags>
+        <content type="html"> 申请快递查询API授权key kuaidi.com SDK文件KDApi.php /** * 物流信息查询接口SDK */ class KDAPI{ private $_APPKEY = &amp;#39;twde5d8ef***********&amp;#39;; //改为您自己的key private $_APIURL = &amp;#34;https://highapi.kuaidi.com/openapi-querycountordernumber.html?&amp;#34;; private $_show = 0; private $_muti = 0; private $_order = &amp;#39;desc&amp;#39;; /** * 获得的快递网接口查询KEY。 * @param string $key */ public function KuaidiAPi($key){ $this-&amp;gt;_APPKEY = $key; } /** * 设置数据返回类型。0: 返回 json 字符串; 1:返回 xml 对象 * @param number $show */ public function setShow($show = 0){ $this-&amp;gt;_show = $show; } /** * 设置返回物流信息条目数, 0:返回多行完整的信息; 1:只返回一行信息 * @param number $muti */ public function setMuti($muti = 0){ $this-&amp;gt;_muti = $muti; } /** * 设置返回物流信息排序。desc:按时间由新到旧排列; asc:按时间由旧到新排列 * @param string $order */ public function setOrder($order = &amp;#39;desc&amp;#39;){ $this-&amp;gt;_order = $order; } /** * 查询物流信息，传入单号， * @param 物流单号 $nu * @param 公司简码 $com 要查询的快递公司代码,不支持中文,具体请参考快递公司代码文档。 不填默认根据单号自动匹配公司。注:单号匹配成功率高于 95%。 * @throws Exception * @return array */ public function query($nu, $com=&amp;#39;&amp;#39;){ if (function_exists(&amp;#39;curl_init&amp;#39;) == 1) { $url = $this-&amp;gt;_APIURL; $dataArr = array( &amp;#39;id&amp;#39; =&amp;gt; $this-&amp;gt;_APPKEY, &amp;#39;com&amp;#39; =&amp;gt; $com, &amp;#39;nu&amp;#39; =&amp;gt; $nu, &amp;#39;show&amp;#39; =&amp;gt; $this-&amp;gt;_show, &amp;#39;muti&amp;#39; =&amp;gt; $this-&amp;gt;_muti, &amp;#39;order&amp;#39; =&amp;gt; $this-&amp;gt;_order ); foreach ($dataArr as $key =&amp;gt; $value) { $url .= $key . &amp;#39;=&amp;#39; . $value . &amp;#34;&amp;amp;&amp;#34;; } // echo $url; $curl = curl_init(); curl_setopt($curl, CURLOPT_URL, $url); curl_setopt($curl, CURLOPT_HEADER, 0); curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1); curl_setopt($curl, CURLOPT_TIMEOUT, 10); $kuaidresult = curl_exec($curl); curl_close($curl); if($this-&amp;gt;_show == 0){ $result = json_decode($kuaidresult, true); }else{ $result = $kuaidresult; } return $result; }else{ throw new Exception(&amp;#34;Please install curl plugin&amp;#34;, 1); } } } 使用示例example.php include &amp;#39;KDApi.php&amp;#39;; $kuaidichaxun = new KDAPI(); //设置返回格式。 0: 返回 json 字符串; 1:返回 xml 对象 //$kuaidichaxun-&amp;gt;setShow(1); //可选，默认为 0 返回json格式 //返回物流信息条目数。 0:返回多行完整的信息; 1:只返回一行信息 //$kuaidichaxun-&amp;gt;setMuti(1); //可选，默认为0 //设置返回物流信息排序。desc:按时间由新到旧排列; asc:按时间由旧到新排列 //$kuaidichaxun-&amp;gt;setOrder(&amp;#39;asc&amp;#39;); //查询 $result = $kuaidichaxun-&amp;gt;query(&amp;#39;YT21212*****&amp;#39;, &amp;#39;yuantong&amp;#39;); var_dump($result); 运行结果   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
         <title>Linux-使用防火墙firewalld开放端口</title>
         <url>https://listenlive.cn/leaf/20210122/linux-firewalld.html</url>
         <categories>
@@ -10,19 +23,6 @@
           <tag>firewalld</tag><tag>防火墙</tag>
         </tags>
         <content type="html"> 查看当前开了哪些端口其实一个服务对应一个端口，每个服务对应/usr/lib/firewalld/services下面一个xml文件 firewall-cmd --list-services 通过firewall-cmd --get-services命令查看可以打开的服务有哪些 新建并编辑vpn-port.xml文件 开放18001端口 &amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;utf-8&amp;#34;?&amp;gt; &amp;lt;service&amp;gt; &amp;lt;short&amp;gt;VPN Port&amp;lt;/short&amp;gt; &amp;lt;description&amp;gt;VPN Port 18001&amp;lt;/description&amp;gt; &amp;lt;port protocol=&amp;#34;tcp&amp;#34; port=&amp;#34;18001&amp;#34;/&amp;gt; &amp;lt;/service&amp;gt; 可以通过下面的命令添加一个服务到firewalld firewall-cmd --add-service=vpn-port //vpn-port换成想要开放的service,仅当前有效 firewall-cmd --permanent --add-service=vpn-port //加上--permanent,表示系统重启后也有效 重启防火墙即可生效 systemctl restart firewalld.service   喜欢这篇文章的话 打赏一下吧！
-         </content>
-    </entry>
-    
-     <entry>
-        <title>使用阿里云/腾讯云国外服务器&#43;Shadowsocks实现科学上网</title>
-        <url>https://listenlive.cn/leaf/20210122/ssr.html</url>
-        <categories>
-          <category>技术</category>
-        </categories>
-        <tags>
-          <tag>Shadowsocks</tag><tag>VPN</tag><tag>科学上网</tag>
-        </tags>
-        <content type="html"> 购买阿里云/腾讯云国外服务器 根据自己情况可以在阿里云或腾讯云购买合适的云服务器，可选择包年、包月或按流量付费 设置安全组 开放18001端口 手动添加 开放18001端口 配置服务器文件 使用WinSCP等FTP工具登录刚创建的实例,进入/opt目录，创建如下几个文件 启动文件 ali_start.sh yum install python-setuptools easy_install pip pip install shadowsocks nohup ssserver -c shadowsocks.json -d start &amp;amp; Shadowsocks配置文件 shadowsocks.json { &amp;#34;server&amp;#34;:&amp;#34;0.0.0.0&amp;#34;, &amp;#34;local_address&amp;#34;: &amp;#34;127.0.0.1&amp;#34;, &amp;#34;local_port&amp;#34;:1080, &amp;#34;port_password&amp;#34;:{ &amp;#34;18001&amp;#34;:&amp;#34;your-password&amp;#34; //ssr连接密码 }, &amp;#34;timeout&amp;#34;:300, &amp;#34;method&amp;#34;:&amp;#34;aes-256-cfb&amp;#34;, &amp;#34;fast_open&amp;#34;: false } 停止文件 stop.sh ssserver -c shadowsocks.json -d stop 使用sh命令运行ali_start.sh启动成功即可 sh /opt/ali_start.sh 配置Shadowsocks并连接 在Github等搜索下载shadowsocks 进行如下配置，完成即可！   喜欢这篇文章的话 打赏一下吧！
          </content>
     </entry>
     
@@ -217,7 +217,7 @@ oracle-instantclient11.2-devel-11.2.0.4.0-1.x86_64.rpm
 安装 oci8 下载oci8组件 下载oci-2.0.8.tgz 解压并安装 tar -xvzf oci-2.0.8.tag
 cd oci-2.0.8
 /www/server/php/56/bin/phpize （用phpize生成configure配置文件) ./configure --with-php-config=/www/server/php/56/bin/php-config --with-oci8=shared,instantclient,/usr/lib/oracle/11.2/client64/lib make &amp;amp;&amp;amp; make install
-修改 php.ini 添加extension=&amp;ldquo;oci8.so&amp;rdquo; 重启PHP，查看phpinfo   喜欢这篇文章的话 打赏一下吧！
+修改 php.ini 添加extension=&amp;quot;oci8.so&amp;rdquo; 重启PHP，查看phpinfo   喜欢这篇文章的话 打赏一下吧！
          </content>
     </entry>
     
@@ -414,7 +414,7 @@ git branch -D test 删除未合并的分支
 git stash 暂存
 git stash list 暂存列表
 git stash apply 恢复暂存
-git archive master --prefix=&amp;lsquo;bbs/&amp;rsquo; --forma=zip &amp;gt; bbs.zip 生成zip发布压缩包
+git archive master --prefix=&#39;bbs/&amp;rsquo; --forma=zip &amp;gt; bbs.zip 生成zip发布压缩包
 git remote add origin https://github.com/gaoxianghua/listenlive.cn.git 本地与GitHub远程关联
 git push -u origin master 推送到远程master分支
 git pull origin ask:ask 将远程ask分支拉到本地

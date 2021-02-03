@@ -1,7 +1,7 @@
 ---
 title: "使用阿里云/腾讯云国外服务器+Shadowsocks实现科学上网"
 date: 2021-01-22T14:06:41+08:00
-draft: false
+draft: true
 toc: true
 url: "/leaf/20210122/ssr.html"
 categories: 

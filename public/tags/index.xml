@@ -6,7 +6,38 @@
     <description>Recent content in Tags on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 22 Jan 2021 14:58:14 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 16:14:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://listenlive.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PHP</title>
+      <link>https://listenlive.cn/tags/php/</link>
+      <pubDate>Tue, 26 Jan 2021 16:14:21 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>快递API</title>
+      <link>https://listenlive.cn/tags/%E5%BF%AB%E9%80%92api/</link>
+      <pubDate>Tue, 26 Jan 2021 16:14:21 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/%E5%BF%AB%E9%80%92api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>快递接口</title>
+      <link>https://listenlive.cn/tags/%E5%BF%AB%E9%80%92%E6%8E%A5%E5%8F%A3/</link>
+      <pubDate>Tue, 26 Jan 2021 16:14:21 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/%E5%BF%AB%E9%80%92%E6%8E%A5%E5%8F%A3/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>firewalld</title>
       <link>https://listenlive.cn/tags/firewalld/</link>
@@ -22,33 +53,6 @@
       <pubDate>Fri, 22 Jan 2021 14:58:14 +0800</pubDate>
       
       <guid>https://listenlive.cn/tags/%E9%98%B2%E7%81%AB%E5%A2%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shadowsocks</title>
-      <link>https://listenlive.cn/tags/shadowsocks/</link>
-      <pubDate>Fri, 22 Jan 2021 14:06:41 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/shadowsocks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VPN</title>
-      <link>https://listenlive.cn/tags/vpn/</link>
-      <pubDate>Fri, 22 Jan 2021 14:06:41 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/vpn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>科学上网</title>
-      <link>https://listenlive.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
-      <pubDate>Fri, 22 Jan 2021 14:06:41 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
       <description></description>
     </item>
     
@@ -112,15 +116,6 @@
       <pubDate>Tue, 05 Jan 2021 13:26:51 +0800</pubDate>
       
       <guid>https://listenlive.cn/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PHP</title>
-      <link>https://listenlive.cn/tags/php/</link>
-      <pubDate>Tue, 15 Dec 2020 11:19:55 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/php/</guid>
       <description></description>
     </item>
     

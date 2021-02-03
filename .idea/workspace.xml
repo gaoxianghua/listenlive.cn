@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c785af19-598d-40dd-b2ff-6faaddeb08f9" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/BDsitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/BDsitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
@@ -27,6 +26,8 @@
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/leaf/20210122/linux-firewalld.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/20210122/linux-firewalld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/leaf/20210122/ssr.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/20210122/ssr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" afterDir="false" />
@@ -74,6 +75,7 @@
       <change beforePath="$PROJECT_DIR$/public/tags/command/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/command/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/crontab/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/crontab/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/docker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/firewalld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/firewalld/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/git/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
@@ -90,9 +92,12 @@
       <change beforePath="$PROJECT_DIR$/public/tags/nosql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/nosql/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/npm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/npm/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/php/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/php/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/php/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/phpstorm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/phpstorm/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/seo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/seo/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/sequelize/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sequelize/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/shadowsocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shadowsocks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/vpn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vpn/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vue/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/前端/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/前端框架/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端框架/index.html" afterDir="false" />
@@ -104,8 +109,10 @@
       <change beforePath="$PROJECT_DIR$/public/tags/数据库/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/数据库/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/模板消息/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/模板消息/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/水仙花数/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/水仙花数/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/科学上网/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/科学上网/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/膜法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/膜法/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/防火墙/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/防火墙/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/阶乘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/阶乘/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" afterDir="false" />
@@ -231,6 +238,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -377,7 +385,16 @@
       <workItem from="1611221626069" duration="20000" />
       <workItem from="1611221660634" duration="670000" />
       <workItem from="1611295435211" duration="4632000" />
-      <workItem from="1611300166252" duration="2738000" />
+      <workItem from="1611300166252" duration="3339000" />
+      <workItem from="1611544959531" duration="490000" />
+      <workItem from="1611560140474" duration="1444000" />
+      <workItem from="1611575050275" duration="268000" />
+      <workItem from="1611644250217" duration="3585000" />
+      <workItem from="1611712467349" duration="6063000" />
+      <workItem from="1611827276623" duration="76000" />
+      <workItem from="1611827468043" duration="766000" />
+      <workItem from="1611885663500" duration="3778000" />
+      <workItem from="1611987777754" duration="608000" />
     </task>
     <servers />
   </component>
