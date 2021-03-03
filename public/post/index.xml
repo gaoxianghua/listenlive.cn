@@ -6,10 +6,33 @@
     <description>Recent content in Posts on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 26 Jan 2021 16:14:21 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 14:00:49 +0800</lastBuildDate><atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>基于Koa框架的Lincms常用操作</title>
+      <link>https://listenlive.cn/note/202103/lincms.html</link>
+      <pubDate>Wed, 03 Mar 2021 14:00:49 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/note/202103/lincms.html</guid>
+      <description>Sequelize事务操作 let transaction; //事务开始 try { transaction = await sequelize.transaction(); const replace_record = { p_code: v.get(&amp;#39;path.p_code&amp;#39;), p_type: v.get(&amp;#39;path.p_type&amp;#39;) }; const { id: record_id } = await ReplaceRecordModel.create(replace_record, { transaction }); await WxReplacesheetsModel.create( { record_id, name: v.get(&amp;#39;path.name&amp;#39;), phone: v.get(&amp;#39;path.phone&amp;#39;), province: v.get(&amp;#39;path.province&amp;#39;), city: v.get(&amp;#39;path.city&amp;#39;), district: v.get(&amp;#39;path.district&amp;#39;), question: v.get(&amp;#39;path.question&amp;#39;), status: 1 }, { transaction } );</description>
+    </item>
     
-	<atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux开启bbr加速</title>
+      <link>https://listenlive.cn/leaf/202102/bbr.html</link>
+      <pubDate>Tue, 09 Feb 2021 13:09:10 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202102/bbr.html</guid>
+      <description>安装bbr加速 进入/usr/local/src目录，下载bbr.sh文件 cd /usr/local/src sudo wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh 添加可执行权限 sudo chmod +x bbr.sh 执行该脚本文件,安装完成后提示按y</description>
+    </item>
     
+    <item>
+      <title>pip install 出错</title>
+      <link>https://listenlive.cn/leaf/202102/pip.html</link>
+      <pubDate>Mon, 08 Feb 2021 15:28:06 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202102/pip.html</guid>
+      <description>Linux下使用pip命令报错 最近使用腾讯云的实例遇到的坑，运行pip install命令后，报错如下： Traceback (most recent call last): File &amp;#34;/usr/bin/pip&amp;#34;, line 9, in &amp;lt;module&amp;gt; load_entry_point(&amp;#39;pip==21.0&amp;#39;, &amp;#39;console_scripts&amp;#39;, &amp;#39;pip&amp;#39;)() File &amp;#34;/usr/lib/python2.7/site-packages/pkg_resources.py&amp;#34;, line 378, in</description>
+    </item>
     
     <item>
       <title>PHP&amp;kuaidi.com实现快递查询</title>
@@ -346,10 +369,10 @@
     
     <item>
       <title>npm 版本更新</title>
-      <link>https://listenlive.cn/leaf/2020/07/25/npmcommand/</link>
+      <link>https://listenlive.cn/leaf/2020/07/25/npmcommand.html</link>
       <pubDate>Sat, 25 Jul 2020 22:58:35 +0800</pubDate>
       
-      <guid>https://listenlive.cn/leaf/2020/07/25/npmcommand/</guid>
+      <guid>https://listenlive.cn/leaf/2020/07/25/npmcommand.html</guid>
       <description>npm install -g npm //npm 版本更新命令（windows） 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
@@ -364,10 +387,10 @@
     
     <item>
       <title>Laravel 清理缓存</title>
-      <link>https://listenlive.cn/leaf/2020/07/23/command1436/</link>
+      <link>https://listenlive.cn/leaf/2020/07/23/command1436.html</link>
       <pubDate>Thu, 23 Jul 2020 14:36:43 +0800</pubDate>
       
-      <guid>https://listenlive.cn/leaf/2020/07/23/command1436/</guid>
+      <guid>https://listenlive.cn/leaf/2020/07/23/command1436.html</guid>
       <description>php artisan route:clear php artisan config:cache php artisan cache:clear php artisan view:clear 喜欢这篇文章的话 打赏一下吧！</description>
     </item>
     
@@ -427,10 +450,10 @@
     
     <item>
       <title>Hugo基本命令</title>
-      <link>https://listenlive.cn/note/2020/07/10/hugocommand/</link>
+      <link>https://listenlive.cn/note/2020/07/10/hugocommand.html</link>
       <pubDate>Fri, 10 Jul 2020 14:52:58 +0800</pubDate>
       
-      <guid>https://listenlive.cn/note/2020/07/10/hugocommand/</guid>
+      <guid>https://listenlive.cn/note/2020/07/10/hugocommand.html</guid>
       <description>Hugo基本命令 hugo server --noHTTPCache #启动 hugo server --disableFastRender #FastRender启动 hugo new site &amp;#34;listenlive.cn&amp;#34; #创建站点 hugo new post/note/xx.md #创建文章 hugo #编译所有文件并输出到public目录 Hug</description>
     </item>
     

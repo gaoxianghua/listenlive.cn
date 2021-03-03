@@ -3,15 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="c785af19-598d-40dd-b2ff-6faaddeb08f9" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/leaf/command1436.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/command1436.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/leaf/npm_command.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/leaf/npm_command.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/note/hugo_command.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/note/hugo_command.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/BDsitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/BDsitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/分享/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/分享/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/分享/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/分享/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/技术/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/技术/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/技术/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/技术/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/杂记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/杂记/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/杂记/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/杂记/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/笔记/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/笔记/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/笔记/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/笔记/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/笔记/p/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/笔记/p/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/home/welcome/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/home/welcome/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
@@ -26,8 +32,8 @@
       <change beforePath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2020/12/15/wechat01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/2021/01/git_commit/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/202101/crontab_linux.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/leaf/202101/kuaidiapi.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/202101/kuaidiapi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/leaf/20210122/linux-firewalld.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/20210122/linux-firewalld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/leaf/20210122/ssr.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/leaf/20210122/ssr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/10/hugocommand/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/13/vue01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/note/2020/07/16/laravel01/index.html" afterDir="false" />
@@ -62,6 +68,7 @@
       <change beforePath="$PROJECT_DIR$/public/p/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/p/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/p/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/p/7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/p/7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/p/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/p/2/index.html" afterDir="false" />
@@ -71,49 +78,87 @@
       <change beforePath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/share/202101/zhanzhangurl/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/api/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/api/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/centos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/centos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/centos/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/centos/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/command/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/command/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/command/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/command/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/crontab/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/crontab/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/crontab/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/crontab/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/docker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/docker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/docker/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/docker/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/firewalld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/firewalld/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/firewalld/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/firewalld/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/git/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/git/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/git/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/git/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/go/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/koa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/koa/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/koa2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/koa2/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/koa2/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/laravel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/laravel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/laravel/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/laravel/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/macos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/macos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/macos/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/macos/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/mongodb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mongodb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/mongodb/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mongodb/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/mysql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mysql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/mysql/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/mysql/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/node.js/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/node.js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/node.js/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/node.js/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/nosql/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/nosql/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/nosql/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/nosql/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/npm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/npm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/npm/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/npm/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/php/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/php/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/php/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/phpstorm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/phpstorm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/phpstorm/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/phpstorm/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/seo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/seo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/seo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/seo/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/sequelize/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sequelize/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/shadowsocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/shadowsocks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/vpn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vpn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/sequelize/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/sequelize/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/vue/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vue/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/vue/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/vue/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/前端/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/前端/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/前端框架/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端框架/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/前端框架/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/前端框架/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/定时任务/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/定时任务/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/定时任务/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/定时任务/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/工具/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/工具/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/工具/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/工具/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/开源/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/开源/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/开源/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/开源/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/微信开发/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/微信开发/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/微信开发/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/微信开发/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/快递api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/快递api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/快递api/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/快递api/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/快递接口/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/快递接口/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/快递接口/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/快递接口/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/提高知识水平/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/提高知识水平/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/提高知识水平/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/提高知识水平/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/数据库/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/数据库/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/数据库/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/数据库/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/模板消息/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/模板消息/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/模板消息/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/模板消息/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/水仙花数/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/水仙花数/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/科学上网/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/科学上网/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/水仙花数/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/水仙花数/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/膜法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/膜法/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/膜法/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/膜法/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/苹果电脑/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/苹果电脑/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/苹果电脑/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/防火墙/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/防火墙/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/防火墙/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/防火墙/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/阶乘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/阶乘/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/阶乘/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/阶乘/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/08/10/tech03/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/technology/2020/11/30/tech02/index.html" afterDir="false" />
@@ -257,7 +302,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -395,6 +440,16 @@
       <workItem from="1611827468043" duration="766000" />
       <workItem from="1611885663500" duration="3778000" />
       <workItem from="1611987777754" duration="608000" />
+      <workItem from="1612769139112" duration="845000" />
+      <workItem from="1612847297560" duration="1301000" />
+      <workItem from="1612856389852" duration="275000" />
+      <workItem from="1612922694213" duration="49000" />
+      <workItem from="1613884081153" duration="1251000" />
+      <workItem from="1614054407737" duration="1003000" />
+      <workItem from="1614232334567" duration="650000" />
+      <workItem from="1614650101363" duration="211000" />
+      <workItem from="1614750174500" duration="3808000" />
+      <workItem from="1614763129022" duration="114000" />
     </task>
     <servers />
   </component>

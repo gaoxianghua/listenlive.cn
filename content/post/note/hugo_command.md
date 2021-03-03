@@ -2,7 +2,7 @@
 title: "Hugo基本命令"
 date: 2020-07-10T14:52:58+08:00
 draft: false
-url: "/note/2020/07/10/hugoCommand"
+url: "/note/2020/07/10/hugocommand.html"
 categories: 
 - 笔记
 tags: 

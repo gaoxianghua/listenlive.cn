@@ -1,6 +1,45 @@
 <search>
     
      <entry>
+        <title>基于Koa框架的Lincms常用操作</title>
+        <url>https://listenlive.cn/note/202103/lincms.html</url>
+        <categories>
+          <category>笔记</category>
+        </categories>
+        <tags>
+          <tag>lincms</tag><tag>Sequelize</tag><tag>koa</tag><tag>node.js</tag>
+        </tags>
+        <content type="html"> Sequelize事务操作 let transaction; //事务开始 try { transaction = await sequelize.transaction(); const replace_record = { p_code: v.get(&amp;#39;path.p_code&amp;#39;), p_type: v.get(&amp;#39;path.p_type&amp;#39;) }; const { id: record_id } = await ReplaceRecordModel.create(replace_record, { transaction }); await WxReplacesheetsModel.create( { record_id, name: v.get(&amp;#39;path.name&amp;#39;), phone: v.get(&amp;#39;path.phone&amp;#39;), province: v.get(&amp;#39;path.province&amp;#39;), city: v.get(&amp;#39;path.city&amp;#39;), district: v.get(&amp;#39;path.district&amp;#39;), question: v.get(&amp;#39;path.question&amp;#39;), status: 1 }, { transaction } ); await transaction.commit(); //事务提交  ctx.json({ code:11, message:&amp;#34;创建成功&amp;#34; }); }catch (error) { console.log(error) await transaction.rollback(); //事务回滚  throw new Failed({ code:22, message:&amp;#34;创建失败&amp;#34;, }); } 更新update await ReplaceRecordModel.update({status:2},{ where:{ id:1 } }); koa读取Excel文件 const xlsx = require(&amp;#39;xlsx&amp;#39;); const fs = require(&amp;#39;fs&amp;#39;); const path = require(&amp;#39;path&amp;#39;); async function getExcelObjs (arr) { const file = &amp;#39;app/assets/&amp;#39;&#43;arr[0].path; // 获取上传的excel文件路径  const reader = fs.createReadStream(file); // 创建可读流  const upStream = fs.createWriteStream(file); // 创建可写流  const getRes = await getFile(reader, upStream); //等待数据存储完成  const datas = []; //可能存在多个sheet的情况  if (!getRes) { const workbook = xlsx.readFile(file); const sheetNames = workbook.SheetNames; // 返回 [&amp;#39;sheet1&amp;#39;, ...]  for (const sheetName of sheetNames) { const worksheet = workbook.Sheets[sheetName]; const data = xlsx.utils.sheet_to_json(worksheet); datas.push(data); } //删除文件  fs.unlink(file,function(error){ if(error){ console.log(error); return false; } }); return { status: true, datas }; } else { return { status: false, msg: &amp;#39;error message...&amp;#39; }; } } function getFile (reader, upStream) { return new Promise(function (result) { let stream = reader.pipe(upStream); // 可读流通过管道写入可写流  stream.on(&amp;#39;finish&amp;#39;, function (err) { result(err); }); }); } module.exports = { getExcelObjs };   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
+        <title>Linux开启bbr加速</title>
+        <url>https://listenlive.cn/leaf/202102/bbr.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>Linux</tag><tag>bbr</tag>
+        </tags>
+        <content type="html"> 安装bbr加速 进入/usr/local/src目录，下载bbr.sh文件 cd /usr/local/src sudo wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh 添加可执行权限 sudo chmod &#43;x bbr.sh 执行该脚本文件,安装完成后提示按y重启系统 sudo sh bbr.sh 判断BBR加速有没有开启成功。输入以下命令： sysctl net.ipv4.tcp_available_congestion_control 如果返回值为：net.ipv4.tcp_available_congestion_control = bbr cubic reno则说明已经开启成功了   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
+        <title>pip install 出错</title>
+        <url>https://listenlive.cn/leaf/202102/pip.html</url>
+        <categories>
+          <category>技术</category>
+        </categories>
+        <tags>
+          <tag>pip</tag>
+        </tags>
+        <content type="html"> Linux下使用pip命令报错 最近使用腾讯云的实例遇到的坑，运行pip install命令后，报错如下： Traceback (most recent call last): File &amp;#34;/usr/bin/pip&amp;#34;, line 9, in &amp;lt;module&amp;gt; load_entry_point(&amp;#39;pip==21.0&amp;#39;, &amp;#39;console_scripts&amp;#39;, &amp;#39;pip&amp;#39;)() File &amp;#34;/usr/lib/python2.7/site-packages/pkg_resources.py&amp;#34;, line 378, in load_entry_point return get_distribution(dist).load_entry_point(group, name) File &amp;#34;/usr/lib/python2.7/site-packages/pkg_resources.py&amp;#34;, line 2566, in load_entry_point return ep.load() File &amp;#34;/usr/lib/python2.7/site-packages/pkg_resources.py&amp;#34;, line 2260, in load entry = __import__(self.module_name, globals(),globals(), [&amp;#39;__name__&amp;#39;]) File &amp;#34;/usr/lib/python2.7/site-packages/pip/_internal/cli/main.py&amp;#34;, line 60 sys.stderr.write(f&amp;#34;ERROR: {exc}&amp;#34;) 解决方式 重新安装pip yum remove python-pip cd /usr/local/src wget https://bootstrap.pypa.io/2.7/get-pip.py python get-pip.py pip -V   喜欢这篇文章的话 打赏一下吧！
+         </content>
+    </entry>
+    
+     <entry>
         <title>PHP&amp;kuaidi.com实现快递查询</title>
         <url>https://listenlive.cn/leaf/202101/kuaidiapi.html</url>
         <categories>
@@ -217,7 +256,7 @@ oracle-instantclient11.2-devel-11.2.0.4.0-1.x86_64.rpm
 安装 oci8 下载oci8组件 下载oci-2.0.8.tgz 解压并安装 tar -xvzf oci-2.0.8.tag
 cd oci-2.0.8
 /www/server/php/56/bin/phpize （用phpize生成configure配置文件) ./configure --with-php-config=/www/server/php/56/bin/php-config --with-oci8=shared,instantclient,/usr/lib/oracle/11.2/client64/lib make &amp;amp;&amp;amp; make install
-修改 php.ini 添加extension=&amp;quot;oci8.so&amp;rdquo; 重启PHP，查看phpinfo   喜欢这篇文章的话 打赏一下吧！
+修改 php.ini 添加extension=&amp;ldquo;oci8.so&amp;rdquo; 重启PHP，查看phpinfo   喜欢这篇文章的话 打赏一下吧！
          </content>
     </entry>
     
@@ -414,7 +453,7 @@ git branch -D test 删除未合并的分支
 git stash 暂存
 git stash list 暂存列表
 git stash apply 恢复暂存
-git archive master --prefix=&#39;bbs/&amp;rsquo; --forma=zip &amp;gt; bbs.zip 生成zip发布压缩包
+git archive master --prefix=&amp;lsquo;bbs/&amp;rsquo; --forma=zip &amp;gt; bbs.zip 生成zip发布压缩包
 git remote add origin https://github.com/gaoxianghua/listenlive.cn.git 本地与GitHub远程关联
 git push -u origin master 推送到远程master分支
 git pull origin ask:ask 将远程ask分支拉到本地
@@ -560,7 +599,7 @@ netstat -an 连接MongoDB数据库 mongo localhost:8888 MongoDB基本指令 use 
     
      <entry>
         <title>npm 版本更新</title>
-        <url>https://listenlive.cn/leaf/2020/07/25/npmcommand/</url>
+        <url>https://listenlive.cn/leaf/2020/07/25/npmcommand.html</url>
         <categories>
           <category>杂记</category>
         </categories>
@@ -587,7 +626,7 @@ v-for 循环列表数据，并使用key添加序号 &amp;lt;div id=&amp;#34;app&
     
      <entry>
         <title>Laravel 清理缓存</title>
-        <url>https://listenlive.cn/leaf/2020/07/23/command1436/</url>
+        <url>https://listenlive.cn/leaf/2020/07/23/command1436.html</url>
         <categories>
           <category>杂记</category>
         </categories>
@@ -709,7 +748,7 @@ v-show:不显示时，就会改为display:none,但是会渲染在DOM上。反复
     
      <entry>
         <title>Hugo基本命令</title>
-        <url>https://listenlive.cn/note/2020/07/10/hugocommand/</url>
+        <url>https://listenlive.cn/note/2020/07/10/hugocommand.html</url>
         <categories>
           <category>笔记</category>
         </categories>

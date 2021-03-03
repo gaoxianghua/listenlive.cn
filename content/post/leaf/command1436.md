@@ -2,7 +2,7 @@
 title: "Laravel 清理缓存"
 date: 2020-07-23T14:36:43+08:00
 draft: false
-url: "/leaf/2020/07/23/command1436"
+url: "/leaf/2020/07/23/command1436.html"
 categories: 
 - 杂记
 tags: 
