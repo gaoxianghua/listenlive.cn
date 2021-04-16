@@ -6,7 +6,16 @@
     <description>Recent content in 笔记 on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Mar 2021 14:00:49 +0800</lastBuildDate><atom:link href="https://listenlive.cn/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Apr 2021 14:28:34 +0800</lastBuildDate><atom:link href="https://listenlive.cn/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js数组操作</title>
+      <link>https://listenlive.cn/note/202104/javascript.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:28:34 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/note/202104/javascript.html</guid>
+      <description>类型转换 字符串 大部分数据类型都可以使用toString()函数转换为字符串 console.log(([1,2,3]).toString()); //1,2,3 也可以使用函数String转换为字符串 console.log(String([1,2,3])); 或者使用join连接为</description>
+    </item>
+    
     <item>
       <title>基于Koa框架的Lincms常用操作</title>
       <link>https://listenlive.cn/note/202103/lincms.html</link>

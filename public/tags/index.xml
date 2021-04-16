@@ -6,7 +6,79 @@
     <description>Recent content in Tags on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Mar 2021 14:00:49 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Apr 2021 14:28:34 +0800</lastBuildDate><atom:link href="https://listenlive.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://listenlive.cn/tags/javascript/</link>
+      <pubDate>Thu, 08 Apr 2021 14:28:34 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>https://listenlive.cn/tags/js/</link>
+      <pubDate>Thu, 08 Apr 2021 14:28:34 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数组</title>
+      <link>https://listenlive.cn/tags/%E6%95%B0%E7%BB%84/</link>
+      <pubDate>Thu, 08 Apr 2021 14:28:34 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/%E6%95%B0%E7%BB%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://listenlive.cn/tags/api/</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>axios</title>
+      <link>https://listenlive.cn/tags/axios/</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/axios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>koa2</title>
+      <link>https://listenlive.cn/tags/koa2/</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/koa2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node.js</title>
+      <link>https://listenlive.cn/tags/node.js/</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/node.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soap</title>
+      <link>https://listenlive.cn/tags/soap/</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/tags/soap/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>koa</title>
       <link>https://listenlive.cn/tags/koa/</link>
@@ -22,15 +94,6 @@
       <pubDate>Wed, 03 Mar 2021 14:00:49 +0800</pubDate>
       
       <guid>https://listenlive.cn/tags/lincms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Node.js</title>
-      <link>https://listenlive.cn/tags/node.js/</link>
-      <pubDate>Wed, 03 Mar 2021 14:00:49 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/node.js/</guid>
       <description></description>
     </item>
     
@@ -197,15 +260,6 @@
     </item>
     
     <item>
-      <title>Koa2</title>
-      <link>https://listenlive.cn/tags/koa2/</link>
-      <pubDate>Fri, 11 Dec 2020 17:29:57 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/koa2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>go</title>
       <link>https://listenlive.cn/tags/go/</link>
       <pubDate>Mon, 30 Nov 2020 17:57:04 +0800</pubDate>
@@ -256,15 +310,6 @@
       <pubDate>Mon, 26 Oct 2020 16:07:49 +0800</pubDate>
       
       <guid>https://listenlive.cn/tags/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Api</title>
-      <link>https://listenlive.cn/tags/api/</link>
-      <pubDate>Tue, 22 Sep 2020 15:02:17 +0800</pubDate>
-      
-      <guid>https://listenlive.cn/tags/api/</guid>
       <description></description>
     </item>
     

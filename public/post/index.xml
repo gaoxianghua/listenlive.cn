@@ -6,7 +6,25 @@
     <description>Recent content in Posts on listenlive.cn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 03 Mar 2021 14:00:49 +0800</lastBuildDate><atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Apr 2021 14:28:34 +0800</lastBuildDate><atom:link href="https://listenlive.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Js数组操作</title>
+      <link>https://listenlive.cn/note/202104/javascript.html</link>
+      <pubDate>Thu, 08 Apr 2021 14:28:34 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/note/202104/javascript.html</guid>
+      <description>类型转换 字符串 大部分数据类型都可以使用toString()函数转换为字符串 console.log(([1,2,3]).toString()); //1,2,3 也可以使用函数String转换为字符串 console.log(String([1,2,3])); 或者使用join连接为</description>
+    </item>
+    
+    <item>
+      <title>Node-Koa2之axios请求云之讯短信发送接口和soap请求WebService</title>
+      <link>https://listenlive.cn/leaf/202103/axios-soap.html</link>
+      <pubDate>Wed, 10 Mar 2021 11:24:18 +0800</pubDate>
+      
+      <guid>https://listenlive.cn/leaf/202103/axios-soap.html</guid>
+      <description>axios请求云之讯短信接口实现短信发送 安装axios cnpm install axios --save 方法实现 static async sendMessage(ctx){ let param = Math.random().toString().substr(2, 4); //生成四位随机数 let phone = &amp;#39;157********&amp;#39;; const url = &amp;#39;https://open.ucpaas.com/ol/sms/sendsms&amp;#39;; const axios = require(&amp;#39;axios&amp;#39;); let sendRe = await axios({ method:</description>
+    </item>
+    
     <item>
       <title>基于Koa框架的Lincms常用操作</title>
       <link>https://listenlive.cn/note/202103/lincms.html</link>
